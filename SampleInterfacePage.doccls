@@ -1,0 +1,7 @@
+﻿'@Folder("EUH114318")
+Sub btnRefreshAll_Click()
+    ThisWorkbook.RefreshAll
+End Sub
+Sub btnRefreshSites_Click()
+    SampleInterfacePage.ListObjects("CompanySites").QueryTable.Refresh
+End Sub
