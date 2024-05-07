@@ -1,5 +1,7 @@
 # EUH114318
 Excel Worksheet to OData with Params
+Provided for EpiUser.help
+https://www.epiusers.help/t/excel-parameter-to-filter-epicor-baq/114318/25
 
 Simple BAQ: zzzEUH
 /*
